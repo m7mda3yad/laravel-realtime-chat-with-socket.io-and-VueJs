@@ -5,7 +5,10 @@
 
 
 
-https://user-images.githubusercontent.com/60317041/200643488-e796fcc0-452d-49dd-8ce5-2dc23c7d3991.mp4
+
+https://user-images.githubusercontent.com/60317041/200643896-afc4d27e-1778-4f2d-9b7d-10b9b4ff29a0.mp4
+
+
 
 
 -  framework ( laravel + Vue  ) 
